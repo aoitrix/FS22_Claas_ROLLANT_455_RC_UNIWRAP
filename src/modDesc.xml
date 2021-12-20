@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no" ?>
+<modDesc descVersion="60">
+    <author>Aoi[trix]</author>
+    <version>1.0.0.0</version>
+    <title>
+        <en><![CDATA[Claas ROLLANT 455 RC UNIWRAP AoiEdition]]></en>
+        <de><![CDATA[Claas ROLLANT 455 RC UNIWRAP AoiEdition]]></de>
+    </title>
+    <description>
+              <de><![CDATA[Meine Version einer Claas ROLLANT 455 RC UNIWRAP, in eine non stop Ballenpresse umgebaut, die die Technik der Vicon FastBale nutzt.
+
+Allerdings wurde die Arbeitsgeschwindigkeit reduziert.
+
+Changelog:
+- 1.0.1.0 Veröffentlichung auf Modhub]]>
+        </de>
+        <en><![CDATA[That's my version of a Claas ROLLANT 455 RC UNIWRAP, reworked to a non stop baler with the technics of the Vicon FastBale.
+
+But at a price: The workspeed is lowered.
+]]>
+        </en>
+    </description>
+    <iconFilename>icon.png</iconFilename>
+    <storeItems>
+        <storeItem xmlFilename="rollant455Uniwrap.xml"/>
+    </storeItems>
+</modDesc>

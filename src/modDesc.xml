@@ -20,7 +20,7 @@ But at a price: The workspeed is lowered.
 ]]>
         </en>
     </description>
-    <iconFilename>icon.png</iconFilename>
+    <iconFilename>modIcon.png</iconFilename>
     <storeItems>
         <storeItem xmlFilename="rollant455Uniwrap.xml"/>
     </storeItems>
